@@ -1,5 +1,5 @@
 # React-Boilerplate
-This is my react-boilerplate
+The simplicity of the simplest
 ## Setup
 npm install  </br>
 npm run build  </br>
