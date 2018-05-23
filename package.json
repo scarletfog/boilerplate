@@ -1,0 +1,23 @@
+{
+  "name": "custom-boilerplate",
+  "version": "1.0.0",
+  "description": "custom boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scarletfog/boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "react"
+  ],
+  "author": "Anna Cieslik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scarletfog/boilerplate/issues"
+  },
+  "homepage": "https://github.com/scarletfog/boilerplate#readme"
+}
